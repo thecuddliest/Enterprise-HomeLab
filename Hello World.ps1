@@ -1,2 +1,2 @@
 Write-host "Hello World"
-read-host ""
+read-host "type"
